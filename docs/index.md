@@ -1,9 +1,6 @@
 ---
 layout: default
 ---
-<body>
-<h1>Hello World! This is where I keep my projects alive.</h1>
-<p>
-Some text
+Hello World! This is where I keep my projects alive.
 
-</body>
+
