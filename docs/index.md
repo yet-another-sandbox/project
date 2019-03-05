@@ -6,6 +6,4 @@ layout: default
 <p>
 Some text
 
-
-Yahoooo
 </body>
